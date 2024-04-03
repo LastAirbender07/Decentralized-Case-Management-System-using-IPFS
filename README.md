@@ -1,10 +1,8 @@
 ﻿# Decentralized-Case-Management-System-using-IPFS
 
-## Abstract
 Blockchain technology is harnessed to create a decentralized case management system, incorporating the InterPlanetary File System (IPFS) for efficient data storage. This system ensures data integrity, transparency, and secure access control. The project targets legal, healthcare, and finance domains.
 
 ![Block Diagram](https://github.com/LastAirbender07/Decentralized-Case-Management-System-using-IPFS/assets/101379967/fd5ee24b-27c3-4828-86f1-949246b75a4a)
-
 
 ## Introduction
 Blockchain's decentralization and immutability offer promising solutions for managing sensitive information. This project explores the utilization of blockchain and IPFS to address challenges in case management, providing a secure and transparent platform for storing and accessing case data.
